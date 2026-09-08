@@ -44,6 +44,7 @@ Y algo que para nosotros cada vez toma más fuerza:
 
 usar AI para construir mejor, no simplemente para escribir más código.
 
+
 🧩 ¿Cómo trabajamos?
 
 Trabajamos con equipos pequeños y multidisciplinarios, organizados en Tribus, con autonomía y ownership sobre lo que construyen.
@@ -55,6 +56,7 @@ Buscamos personas que puedan decir:
 Valoramos muchísimo la curiosidad, la colaboración y las ganas de aprender.
 Porque sí: nos sentimos cómodos estando incómodos.
 
+
 🌎 ¿Qué desafíos tenemos?
 
 Construir una plataforma que impacta a millones de personas en LATAM trae desafíos bien interesantes.
@@ -62,9 +64,13 @@ Construir una plataforma que impacta a millones de personas en LATAM trae desaf�
 Estamos constantemente trabajando en:
 
 ⚡ Escalabilidad — crecer sin perder estabilidad ni performance.
+
 🔐 Confiabilidad — mantener procesos críticos consistentes y seguros.
+
 🏎️ Performance — hacer sistemas cada vez más eficientes y resilientes.
+
 🤖 AI — reducir fricción, automatizar procesos y construir mejores productos.
+
 🧱 Evolución tecnológica — saber cuándo cambiar, por qué hacerlo y qué impacto genera.
 
 Nuestro objetivo no es hacer más por hacer más.
@@ -85,7 +91,9 @@ Por mi parte feliz de conocerte. 🙌
 🤝 Conectemos
 
 💼 LinkedIn: https://www.linkedin.com/in/paula-mahecha-55773a189/
+
 💻 Engineering en Buk: https://www.buk.cl/quienes-somos/engineering
+
 🚀 Vacantes: https://www.takealuk.com/empleos-buk?q%5Bname_cont%5D=&countries%5B%5D=Chile
 
 #PmahechaRecruiter
