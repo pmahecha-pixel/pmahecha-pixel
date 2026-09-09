@@ -1,5 +1,5 @@
 Hola 👋 Soy Paula Mahecha
-Tech Recruiter @ Buk · 📍 Colombia · 🌎 LATAM
+Tech Recruiter @Bukhr · 📍 Colombia · 🌎 LATAM
 
 Hago parte del equipo de Tech Recruiting en Buk, donde mi trabajo es encontrar personas que quieran construir productos, resolver problemas reales y generar impacto a escala LATAM.
 
