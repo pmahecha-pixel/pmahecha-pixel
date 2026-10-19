@@ -122,7 +122,7 @@ No necesitas tener todas las respuestas. **Cuéntame qué estás construyendo, q
 </a>
 
 
-[💻 Engineering en Buk](https://www.buk.cl/quienes-somos/engineering) · [🚀 Explora nuestras vacantes](https://www.takealuk.com/empleos-buk)
+**[ Engineering en Buk](https://www.buk.cl/quienes-somos/engineering)**· **[ Explora nuestras vacantes](https://www.takealuk.com/empleos-buk)**
 
 **#PmahechaRecruiter**
 
