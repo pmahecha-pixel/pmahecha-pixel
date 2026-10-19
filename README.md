@@ -1,4 +1,3 @@
-<div align="center">
 
 # Hola 👋 Soy Paula Mahecha
 
@@ -93,6 +92,15 @@ Construir una plataforma que impacta a millones de personas nos invita a resolve
 **Buscamos soluciones simples que generen el mayor impacto posible.**
 
 ---
+
+#### Conoce un poco más 🚀
+
+ **[PILAR 1: POSICIONAMIENTO Y CULTURA](https://github.com/pmahecha-pixel/Posicionamiento-y-cultura-BUK.git)**
+
+ **[PILAR 2: ARQUITECTURA, ESCALA Y PRÁCTICAS REALES](https://github.com/pmahecha-pixel/arquitectura_escala_practicas_reales.git)** 
+
+**[PILAR 3: CONVERSIÓN: COMUNIDAD, OPEN SOURCE Y NUESTRO PROCESO](https://github.com/pmahecha-pixel/conversi-n_y_comunidad_buker.git)**  
+
 
 ## 👩🏻‍💻 ¿Conversamos sobre tu próximo desafío?
 
