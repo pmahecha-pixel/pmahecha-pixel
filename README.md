@@ -1,5 +1,5 @@
 
-# Hola 👋 Soy Paula Mahecha
+# Hola 👋 Soy Paula Mahecha <img src="e141124c-4343-4f2c-9a8f-99d806199fec.png" width="50">
 
 ### Tech Recruiter @ Buk 💙
 📍 Colombia · 🌎 Conectando talento tech en LATAM
