@@ -1,99 +1,121 @@
-Hola 👋 Soy Paula Mahecha
-Tech Recruiter @Bukhr · 📍 Colombia · 🌎 LATAM
+<div align="center">
 
-Hago parte del equipo de Tech Recruiting en Buk, donde mi trabajo es encontrar personas que quieran construir productos, resolver problemas reales y generar impacto a escala LATAM.
+# Hola 👋 Soy Paula Mahecha
 
-Para hacer bien ese trabajo, también quiero entender cada vez mejor el mundo de la tecnología, sus desafíos y, sobre todo, a las personas que están detrás de ella: qué les da curiosidad, qué están construyendo y cómo piensan.
-
-Por eso estoy en GitHub: para seguir aprendiendo y acercándome cada vez más a este mundo. 🙌
+### Tech Recruiter @ Buk 💙
+📍 Colombia · 🌎 Conectando talento tech en LATAM
 
 ---
 
-En Buk construimos una plataforma SaaS de gestión de personas que busca hacer que los lugares de trabajo sean más felices.
+## 🙋🏻‍♀️ Un poco sobre mí
 
-Nuestra plataforma está presente en distintos países de LATAM y acompaña procesos como remuneraciones, beneficios, selección, desempeño, compensaciones y experiencia de las personas.
+Soy parte del equipo de **Tech Recruiting de Buk**, donde conecto con personas que quieren construir productos, resolver problemas reales y generar impacto en Latinoamérica.
 
-**Detrás de todo esto hay un desafío enorme: seguir construyendo una plataforma escalable, confiable y con una gran experiencia de producto.**
+Para hacerlo bien, quiero entender cada vez mejor la tecnología y a las personas detrás de ella: **qué les da curiosidad, qué están construyendo y cómo piensan.**
 
-Nuestro stack incluye:
+Por eso estoy en GitHub: para seguir aprendiendo y acercarme a este mundo. 🙌
 
-Ruby on Rails · Java + Groovy · PHP + Symfony · PostgreSQL · AWS · Docker · Kubernetes · Terraform · Redis · Sidekiq
+## 💙 ¿Qué construimos en Buk?
 
+Una **plataforma SaaS de gestión de personas** con un propósito: hacer que los lugares de trabajo sean más felices.
+
+Acompañamos a organizaciones de distintos países de LATAM en procesos como remuneraciones, beneficios, selección, desempeño, compensaciones y experiencia de las personas.
+
+Detrás de todo esto hay un gran desafío de ingeniería: **seguir construyendo una plataforma escalable, confiable y con una gran experiencia de producto.**
+
+### 🛠️ Nuestro stack
+
+<p>
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white" alt="Ruby on Rails" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white" alt="Groovy" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Sidekiq-B1003E?style=flat-square&logo=sidekiq&logoColor=white" alt="Sidekiq" />
+</p>
 Pero para nosotros la tecnología no termina en el stack.
 
-**Nos importa entender qué problema estamos resolviendo, por qué y qué impacto genera.*
+> Nos importa entender qué problema estamos resolviendo, por qué y qué impacto genera.
 
 ---
 
-🧠 ¿Cómo pensamos Engineering?
+## 🧠 ¿Cómo pensamos Engineering?
 
-No buscamos personas que simplemente ejecuten tickets.
-Buscamos personas que puedan leer un problema, hacerse preguntas, proponer una solución y construirla junto al equipo.
+Buscamos personas que puedan **entender un problema, hacerse preguntas, proponer alternativas y construir una solución junto al equipo.**
 
-Por eso nuestras conversaciones pasan por:
+Nuestras conversaciones pasan por:
 
-Arquitectura y diseño de sistemas
-Performance y escalabilidad
-Bases de datos y consistencia
-Seguridad y observabilidad
-Testing y TDD
-Cloud & DevOps
-Product Engineering
+| | Temas que nos mueven |
+| :---: | :--- |
+| 🏗️ | Arquitectura y diseño de sistemas |
+| ⚡ | Performance y escalabilidad |
+| 🗄️ | Bases de datos y consistencia |
+| 🔐 | Seguridad y observabilidad |
+| 🧪 | Testing y TDD |
+| ☁️ | Cloud y DevOps |
+| 🎯 | Product Engineering |
+| 🤖 | IA aplicada al desarrollo y al producto |
 
-Y algo que para nosotros cada vez toma más fuerza:
+La IA tiene un espacio cada vez más importante: **queremos usarla para construir mejor y aportar valor en todo el ciclo de desarrollo.**
 
-usar AI para construir mejor, no simplemente para escribir más código.
+## 🧩 ¿Cómo trabajamos?
 
+Trabajamos con **equipos pequeños y multidisciplinarios**, organizados en Tribus, con autonomía y ownership sobre lo que construyen.
 
-🧩 ¿Cómo trabajamos?
+Participamos desde el entendimiento del problema hasta la implementación y el monitoreo de las soluciones en producción.
 
-Trabajamos con equipos pequeños y multidisciplinarios, organizados en Tribus, con autonomía y ownership sobre lo que construyen.
+Nos gusta escuchar:
 
-Buscamos personas que puedan decir:
+> “Este es el problema, estas son las alternativas y esta es la solución que creo que tiene más sentido.”
+>
+> **Y después… construirla.** 🚀
 
-**“Este es el problema, estas son las alternativas y esta es la solución que creo que tiene más sentido.” Y después... construirla.** 🚀
+Valoramos la **curiosidad, la colaboración y las ganas de aprender**. Nos sentimos cómodos estando incómodos.
 
-Valoramos muchísimo la curiosidad, la colaboración y las ganas de aprender.
-Porque sí: nos sentimos cómodos estando incómodos.
+## 🌎 Desafíos con impacto en LATAM
 
+Construir una plataforma que impacta a millones de personas nos invita a resolver desafíos como estos:
 
-🌎 ¿Qué desafíos tenemos?
+| Desafío | Qué buscamos |
+| :--- | :--- |
+| ⚡ **Escalabilidad** | Crecer manteniendo la estabilidad y el rendimiento. |
+| 🔐 **Confiabilidad** | Mantener procesos críticos consistentes y seguros. |
+| 🏎️ **Performance** | Construir sistemas más eficientes y resilientes. |
+| 🤖 **Inteligencia artificial** | Reducir fricción, automatizar procesos y mejorar productos. |
+| 🧱 **Evolución tecnológica** | Decidir qué cambiar, cuándo hacerlo y qué valor aporta. |
 
-Construir una plataforma que impacta a millones de personas en LATAM trae desafíos bien interesantes.
-
-Estamos constantemente trabajando en:
-
-⚡ Escalabilidad — crecer sin perder estabilidad ni performance.
-
-🔐 Confiabilidad — mantener procesos críticos consistentes y seguros.
-
-🏎️ Performance — hacer sistemas cada vez más eficientes y resilientes.
-
-🤖 AI — reducir fricción, automatizar procesos y construir mejores productos.
-
-🧱 Evolución tecnológica — saber cuándo cambiar, por qué hacerlo y qué impacto genera.
-
-Nuestro objetivo no es hacer más por hacer más.
-
-Es hacer lo mínimo posible para generar el máximo impacto.
+**Buscamos soluciones simples que generen el mayor impacto posible.**
 
 ---
 
-👩🏻‍💻 ¿Buscas un nuevo desafío?
+## 👩🏻‍💻 ¿Conversamos sobre tu próximo desafío?
 
-Si te gusta construir productos, resolver problemas técnicos interesantes y seguir aprendiendo, quizás tengamos algo de qué conversar.
+Si te gusta construir productos, resolver problemas técnicos y seguir aprendiendo, quizás tengamos algo de qué conversar.
 
-No necesitas tener todas las respuestas.
-Cuéntame qué estás construyendo, qué te mueve técnicamente o qué problema te gustaría resolver.
+No necesitas tener todas las respuestas. **Cuéntame qué estás construyendo, qué te mueve técnicamente o qué problema te gustaría resolver.**
 
-Por mi parte feliz de conocerte. 🙌
+¡Feliz de conocerte! 🙌
 
-🤝 Conectemos
+<div align="center">
 
-💼 LinkedIn: https://www.linkedin.com/in/paula-mahecha-55773a189/
+### 🤝 Conectemos
 
-💻 Engineering en Buk: https://www.buk.cl/quienes-somos/engineering
+<a href="https://www.linkedin.com/in/paula-mahecha-55773a189/">
+  <img src="https://img.shields.io/badge/LinkedIn-Paula_Mahecha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conectar en LinkedIn" />
+</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=pmahecha%40buk.co">
+  <img src="https://img.shields.io/badge/Gmail-Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Escribir por Gmail" />
+</a>
 
-🚀 Vacantes: https://www.takealuk.com/empleos-buk?q%5Bname_cont%5D=&countries%5B%5D=Chile
 
-#PmahechaRecruiter
+[💻 Engineering en Buk](https://www.buk.cl/quienes-somos/engineering) · [🚀 Explora nuestras vacantes](https://www.takealuk.com/empleos-buk)
+
+**#PmahechaRecruiter**
+
+</div>
